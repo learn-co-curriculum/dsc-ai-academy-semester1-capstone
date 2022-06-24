@@ -1,4 +1,4 @@
-# Phase 1 Project Description
+# Semester 1 Capstone Project Description
 
 You've made it all the way through the Intensive portion of this course - take a minute to celebrate your awesomeness!
 
