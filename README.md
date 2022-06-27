@@ -47,13 +47,15 @@ It is up to you to decide what data from this to use and how to use it. If you a
 
 ### Key Points
 
-* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
+* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take. 
 
 * **Communicating about your work well is extremely important.** Your ability to provide value to an organization is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Microsoft's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points, and skipping over the rest.
 
 * **Use plenty of relevant visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
 
 * **Choose appropriate statistical inference techniques.** Hypothesis testing and confidence intervals can provide useful inferences about larger populations based on sample data. Using them helps to see larger insights that may not immediately be available from initial exploratory analysis.
+
+You should have at least *two recommendations* based on your Data Communication work and at least *one recommendation* following your Statistical Communication work.
 
 ## Deliverables
 
@@ -212,7 +214,7 @@ Communication is another key "soft skill". For this project, you will be require
 To further define some of these terms:
 
 * By "basic data analysis" we mean that you are filtering, sorting, grouping, and/or aggregating the data in order to answer business questions. Here, descriptive statistics about the samples of data such as measures of central tendency are encouraged.
-* By "results" we mean your ***three visualizations and recommendations***.
+* By "results" we mean your ***three visualizations*** that provide background to your recommendations.
 * By "diverse audiences" we mean that your presentation and notebook are appropriately addressing a business and data science audience, respectively.
 
 Below are the definitions of each rubric level for this objective. This information is also summarized in the rubric, which is attached to the project submission assignment.
@@ -306,11 +308,14 @@ High-quality Statistical Communication includes rationale, results, limitations,
 * **Results:** Describing the findings of hypothesis tests and/or confidence intervals
   * You need run at least one hypothesis test or create at least one confidence interval.
   * For a business audience, make sure you connect any results from these statistical procedures to real-world implications. You do not need to get into the details of how hypothesis testing or confidence intervals work, but rather make sure to interpret the results of the analyses and its implications on the business problem.
+  * Your statistical analyses should pair with *at least one* of the visualizations you created under Data Communication.
 * **Limitations:** Identifying the limitations and/or uncertainty present in your analysis
   * This could include data collection concerns, assumptions of missing data, etc.
   * In general, this should be more in-depth for a data science audience and more surface-level for a business audience.
 * **Recommendations:** Interpreting the statistical results and limitations in the context of the business problem
   * What should stakeholders _do_ with this information?
+
+Make sure to pair at least one visualization with a statistical analyses here. This could, for example, correspond to showing boxplots of two groups in the sample as a lead in to a two sample t-test.
 
 #### Exceeds Objective
 
