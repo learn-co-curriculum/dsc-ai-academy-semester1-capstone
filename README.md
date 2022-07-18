@@ -19,7 +19,7 @@ For this project, you will use exploratory data analysis and statistical methods
 
 ### Business Problem
 
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t have much background in creating movies. You are charged with exploring what types of films are currently doing the best at the box office using different samples of available data. You then will translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
+Computing Vision sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t have much background in creating movies. You are charged with exploring what types of films are currently doing the best at the box office using different samples of available data. You then will translate those findings into actionable insights that the head of Computing Vision's new movie studio can use to help decide what type of films to create.
 
 ### The Data
 
@@ -47,9 +47,9 @@ It is up to you to decide what data from this to use and how to use it. If you a
 
 ### Key Points
 
-* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take. 
+* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Computing Vision) should take. 
 
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Microsoft's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points, and skipping over the rest.
+* **Communicating about your work well is extremely important.** Your ability to provide value to an organization is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Computing Vision's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points, and skipping over the rest.
 
 * **Use plenty of relevant visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
 
@@ -70,7 +70,7 @@ There are three deliverables for this project:
 The non-technical presentation is a slide deck presenting your analysis to business stakeholders.
 
 * ***Non-technical*** does not mean that you should avoid mentioning the technologies or techniques that you used, it means that you should explain any mentions of these technologies and avoid assuming that your audience is already familiar with them.
-* ***Business stakeholders*** means that the audience for your presentation is Microsoft, not the class, teacher, or coach. Do not assume that they are already familiar with the specific business problem, but also do not explain to them what Microsoft is.
+* ***Business stakeholders*** means that the audience for your presentation is Computing Vision, not the class, teacher, or coach. Do not assume that they are already familiar with the specific business problem, but also do not explain to them what Computing Vision is.
 
 The presentation describes the project ***goals, data, methods, and results***. It must include at least ***three visualizations*** which correspond to ***three business recommendations***.
 
@@ -87,7 +87,7 @@ We recommend that you follow this structure, although the slide titles should be
     * Recommendations
     * Next Steps
     * Thank You
-       * This slide should include a prompt for questions as well as your contact information (name and LinkedIn profile)
+       * This slide should include a prompt for questions as well as your contact information
 
 You will give a live presentation of your slides and submit them in PDF format on Canvas. The slides should also be present in the GitHub repository you submit with a file name of `presentation.pdf`.
 
