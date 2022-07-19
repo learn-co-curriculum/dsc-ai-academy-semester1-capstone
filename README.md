@@ -348,7 +348,7 @@ Does not communicate the results of statistical analyses
 
 Please start by reviewing the contents of this project description. If you have any questions, please ask your instructor ASAP.
 
-Next, you will need to complete the [***Project Proposal***](#project_proposal) which must be reviewed by your instructor before you can continue with the project.
+Next, you will need to complete the Project Proposal, which must be reviewed by your instructor before you can continue with the project.
 
 Then, you will need to create a new GitHub repository by going to [github.com/new](https://github.com/new). Then, download and copy the data files from [this folder in the capstone repo](https://github.com/learn-co-curriculum/dsc-ai-academy-semester1-capstone/tree/main/zippedData) into your new repository.
 
