@@ -61,7 +61,7 @@ You should have at least *two recommendations* based on your Data Communication 
 
 There are three deliverables for this project:
 
-* A **non-technical presentation**
+* A **non-technical presentation** using the Deloitte Powerpoint template to follow good storyboarding and logical structure. More information is available to Deloitte employees [here](https://secure-web.cisco.com/1v6kvlFBED_pKFB1-EiO3J69aSvTLihv98oO6OAryDHDGAa1XLDluQA_RoTguOLSFFUzz-WCJmm5O-04Mt-Dk0IZCqApnb_XDpLUnEmc6vB49BmxGpkvFSOp3KKj-rd8FyZzJ2z73qZr5VYgjox55nPMt1JGaINm5EV6eeTDEzesXOaOEHxZJV4e93UKyG-qYEnMraJwA0ndhvicVcCh_6VnyB0j3k1r_Vcj_Aw0rTJhlUOYT_YB85Tl7IkpvoRnPDPV7BN9E6FM93eqt-7UtvhmPt6fr8O6SLuzaFcHsJpyHEDZBBbsk9IFoU1FauIhP544urgG2sMKGZ6VIdHyx-h7_K-M18z-x7MxPdrTrZbNUZiNRiwG4qymNAkriYkiHj7IudvYgMXrv9c1aonqC46lp7VAOPHmg0Aq7BPs5dR7LlmH4OK_V7OweyrEWNwqrOPFL9QrLNs-KWY_oFuCtEaBTPjNBPIvsxj4cWrozwTWcb02LYTixanfUgIVMxGUv4PAAL461Hnwh-GWWchyFng/https%3A%2F%2Fbecurious.edcast.eu%2Fpathways%2Fai-academy-storyboarding-resources).
 * A **Jupyter Notebook**
 * A **GitHub repository**
 
