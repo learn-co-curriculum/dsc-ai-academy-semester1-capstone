@@ -176,13 +176,13 @@ For further reading on creating professional notebooks and `README`s, check out 
 
 ## Grading
 
-***To pass this project, you must pass each project rubric objective.*** The project rubric objectives for Phase 1 are:
+***To pass this project, you must pass each project rubric objective.*** The Capstone is worth 50% of your total grade. Of that 50%, 20% of the Capstone is the individual grade and 80% of the Capstone is the group grade. In other words, the indivual portion is worth 10% of your total grade and the group poriton is worth 40% of your total grade. The project rubric objectives for Phase 1 are for *both* the inividual and group (Percent of the individual or group portion of the grade):
 
-1. Attention to Detail
-2. Data Communication
-3. Authoring Jupyter Notebooks
-4. Data Manipulation and Analysis with `pandas`
-5. Statistical Communication
+1. Attention to Detail (20%)
+2. Data Communication (20%)
+3. Authoring Jupyter Notebooks (20%)
+4. Data Manipulation and Analysis with `pandas` (20%)
+5. Statistical Communication (29%)
 
 ### Attention to Detail
 
