@@ -176,7 +176,7 @@ For further reading on creating professional notebooks and `README`s, check out 
 
 ## Grading
 
-***To pass this project, you must pass each project rubric objective.*** The Capstone is worth 50% of your total grade, where the individual portion is worth 10% of your total grade and the group portion is worth 40% of your total grade. The Phase 1 Capstone project rubric objectives for *both* the inividual and group are identical (percent of the individual or group portion of the grade):
+***To pass this project, you must pass each project rubric objective.*** The Capstone is worth 50% of your total grade, where the individual portion is worth 10% of your total grade and the group portion is worth 40% of your total grade. The Phase 1 Capstone project rubric objectives for *both* the individual and group are identical (percent of the individual or group portion of the grade):
 
 1. Attention to Detail (20%)
 2. Data Communication (20%)
