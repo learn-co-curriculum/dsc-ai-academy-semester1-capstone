@@ -350,6 +350,12 @@ Please start by reviewing the contents of this project description. If you have 
 
 Then, you will need to create a new GitHub repository by going to [github.com/new](https://github.com/new). Then, download and copy the data files from [this folder in the capstone repo](https://github.com/learn-co-curriculum/dsc-ai-academy-semester1-capstone/tree/main/zippedData) into your new repository.
 
+You will also need to [edit](https://github.com/learn-co-curriculum/dsc-gitignore) your `.gitignore` file in your repository to include the data files, as some are larger than GitHub allows. Git will warn you if you attempt to add or update a file larger than 50 MB, and will block you outright if the file size is larger than 100 MB. 
+
+If you accidentally add or commit large data files to your repository, there is a [process in the terminal to remove them](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github#removing-files-from-a-repositorys-history). It is not the easiest to get git to retroactively ignore a large file once it has made its way into the commit history, so it is better to be proactive now and make sure to deal with it before you start any work on the repository.
+
+Now is a great time to also add any unnecessary or private files to your `.gitignore` before you get rolling on your project. 
+
 ## Summary
 
 This project will give you a valuable opportunity to develop your data science skills using real-world data. The capstone projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
