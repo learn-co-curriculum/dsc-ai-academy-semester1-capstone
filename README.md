@@ -333,7 +333,7 @@ Successfully communicates the results of statistical analyses without any major 
 
 Communicates the results of statistical analyses with at least one major error
 
-> A major error means that some aspect of your explanation is fundamentally incorrect. For example, if a hypothesis test produced a large p-value (say, above 50%) but the hypothesis test was still rejected at the 10% significance level, that would be a major error. Another example would be if zero was found in a confidence interval looking at the range of possible values for a difference in the mean of two groups, but statistical signifance was still reported.
+> A major error means that some aspect of your explanation is fundamentally incorrect. For example, if a hypothesis test produced a large p-value (say, above 50%) but the hypothesis test was still rejected at the 10% significance level, that would be a major error. Another example would be if zero was found in a confidence interval looking at the range of possible values for a difference in the mean of two groups, but statistical significance was still reported.
 
 > The easiest way to avoid making a major error is to have someone double-check your work. Reach out to peers on Slack and ask them to confirm whether your interpretation makes sense!
 
